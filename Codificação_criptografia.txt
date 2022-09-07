@@ -1,0 +1,15 @@
+Redes de Computadores:
+
+Codificações e Criptografia
+
+{
+
+"aluno":"Binhão",
+
+"Mensagem":"b2xhLCBzb3UgSnVsaW8sIGNvbmhlY2lkbyBjb21vIGJpbmhhbw==",
+
+"chave":"bee6f951e9662b5b8cdd40be7c439a09264dab5eedfdcb9550d5887bfbc3edab0332bafd0b15daf3f88c90050fc9362ca7e1771c",
+
+"hashing":"3e17d7229b4b5ee39357afa1fc0cecd6"
+
+}
